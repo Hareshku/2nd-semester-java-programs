@@ -2,6 +2,11 @@
 
 import java.util.ArrayList;
 import java.util.Collections;
+class b{
+    void add(){
+        System.out.println("Adding");
+    }
+}
 class A{
 public static void main(String args[])
 {
